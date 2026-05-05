@@ -94,7 +94,8 @@ Two-panel file manager with support for FAT16 / FAT32.
 
 ## Problem Solving
 
-* Active on Codeforces & LeetCode
+* Active on 
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & LeetCode
 * Focus areas:
 
   * Graphs
@@ -124,11 +125,13 @@ Repository structure typically includes:
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JohnyDeve)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDeve&layout=compact)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnyDeve&theme=tokyo-night)
 
 ---
 
@@ -153,20 +156,3 @@ Format:
 * LeetCode: https://leetcode.com/YOUR_HANDLE
 * LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 * Telegram: https://t.me/YOUR_HANDLE
-
-Nicknames:
-
-* kuzak
-* johnyDeve
-* kuzakinc
-* kuzak1n
-
----
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JohnyDeve)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDeve&layout=compact)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev)
-
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev)
-![Big boba](https://github-readme-activity-graph.vercel.app/graph?username=JohnyDeve&theme=tokyo-night)
