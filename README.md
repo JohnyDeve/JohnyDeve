@@ -1,4 +1,4 @@
-# Ivan Nord / kuzak
+# Ivan Kuzyakin 1
 
 ## About Me
 
