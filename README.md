@@ -1,4 +1,4 @@
-# Ivan Kuzyakin 1
+# Ivan Kuzyakin
 
 ## About Me
 
