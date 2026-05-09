@@ -40,10 +40,10 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ## Environment
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge\&logo=apple)
-![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge\&logo=neovim)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge\&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square\&logo=linux)
+![macOS](https://img.shields.io/badge/macOS-black?style=flat-square\&logo=apple)
+![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square\&logo=neovim)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square\&logo=visualstudiocode)
 
 ---
 
@@ -51,42 +51,42 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+![C](https://img.shields.io/badge/C-black?style=flat-square\&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square\&logo=cplusplus)
 Main | Second
-![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=flat-square)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat-square\&logo=gnubash)
 
 ### Systems
 
-![POSIX](https://img.shields.io/badge/POSIX-black?style=for-the-badge)
-![Linux API](https://img.shields.io/badge/Linux_API-black?style=for-the-badge\&logo=linux)
-![Windows API](https://img.shields.io/badge/Windows_API-black?style=for-the-badge\&logo=windows)
+![POSIX](https://img.shields.io/badge/POSIX-black?style=flat-square)
+![Linux API](https://img.shields.io/badge/Linux_API-black?style=flat-square\&logo=linux)
+![Windows API](https://img.shields.io/badge/Windows_API-black?style=flat-square\&logo=windows)
 
-![Memory Management](https://img.shields.io/badge/Memory_Management-black?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-black?style=for-the-badge)
-![Synchronization](https://img.shields.io/badge/Synchronization-black?style=for-the-badge)
+![Memory Management](https://img.shields.io/badge/Memory_Management-black?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-black?style=flat-square)
+![Synchronization](https://img.shields.io/badge/Synchronization-black?style=flat-square)
 
 ### Networking
 
-![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-black?style=for-the-badge)
-![epoll](https://img.shields.io/badge/epoll-black?style=for-the-badge)
-![Protocol Design](https://img.shields.io/badge/Protocol_Design-black?style=for-the-badge)
+![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-black?style=flat-square)
+![epoll](https://img.shields.io/badge/epoll-black?style=flat-square)
+![Protocol Design](https://img.shields.io/badge/Protocol_Design-black?style=flat-square)
 
 ### Filesystems
 
-![FAT16](https://img.shields.io/badge/FAT16-black?style=for-the-badge)
-![FAT32](https://img.shields.io/badge/FAT32-black?style=for-the-badge)
+![FAT16](https://img.shields.io/badge/FAT16-black?style=flat-square)
+![FAT32](https://img.shields.io/badge/FAT32-black?style=flat-square)
 
 ---
 
 ## Build & Tooling
 
-![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge\&logo=cmake)
-![Make](https://img.shields.io/badge/Make-black?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
+![CMake](https://img.shields.io/badge/CMake-black?style=flat-square\&logo=cmake)
+![Make](https://img.shields.io/badge/Make-black?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square\&logo=githubactions)
 
 ---
 
@@ -134,9 +134,9 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ## Contacts
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge\&logo=codeforces)](https://codeforces.com/profile/YOUR_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge\&logo=telegram)](https://t.me/YOUR_HANDLE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=flat-square\&logo=codeforces)](https://codeforces.com/profile/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square\&logo=leetcode)](https://leetcode.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square\&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square\&logo=telegram)](https://t.me/YOUR_HANDLE)
 
 ---
