@@ -17,8 +17,8 @@ You can also explore some of my systems-oriented projects and implementations in
 
 For additional details:
 
-* [Problem Solving](#problem-solving)
 * [Engineering Profile](#engineering-profile)
+* [Problem Solving](#problem-solving)
 * [Stats](#stats)
 * [Contacts](#contacts)
 
@@ -107,19 +107,18 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ---
 
-## Problem Solving
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge\&logo=codeforces)](https://codeforces.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
-
----
-
 ## Engineering Profile
 
 * performance-first approach
 * explicit memory control
 * modular API-oriented development
 * predictable low-level abstractions
+
+---
+
+## Problem Solving
+
+* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
 
 ---
 
