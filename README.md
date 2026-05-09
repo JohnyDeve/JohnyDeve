@@ -137,7 +137,7 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge\&logo=codeforces)](https://codeforces.com/profile/johny_dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/johny_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/ivan-kuzyakin-1010011100000001010000110000101011011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ivan-kuzyakin-1010011100000001010000110000101011011)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge\&logo=telegram)](https://t.me/YOUR_HANDLE)
 
 ---
