@@ -118,7 +118,7 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ## Problem Solving
 
-* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/johny_dev/)
+* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square\&logo=leetcode)](https://leetcode.com/u/johny_dev/)
 
 ---
 
