@@ -6,17 +6,17 @@
 
 Hello, I'm **Ivan Kuzyakin** — a second-year student at **ITMO University** majoring in *Computer Technologies* and a **C/C++ mentor** in the *Systems Programming in C/C++* course.
 
-My work is focused on low-level and performance-critical systems: memory management, filesystems, networking, concurrency, protocol design, and infrastructure close to the operating system and hardware layer. I also develop low-level libraries for mathematical and algebraic objects with an emphasis on performance, deterministic behavior, and explicit memory control.
+My work is focused on **low-level and performance-critical systems**: memory management, filesystems, Low-level networking, concurrency, protocol design, and infrastructure close to the operating system and hardware layer. 
+I also develop **low-level libraries** for mathematical and algebraic objects with an emphasis on performance, deterministic behavior, and explicit memory control.
 
-I primarily work with **C/C++**, building modular and predictable systems for infrastructure, backend, and systems-level software.
+I primarily work with **C/C++**, building modular and predictable systems for infrastructure, backend, and systems-level software. Detailed information about my current role and mentoring responsibilities is available in the [Employment](#employment) section.
+
+Most of my development workflow is built around **Linux/macOS** environments, **low-level tooling**, and **explicit control over system** behavior — see [Environment](#environment), [Tech Stack](#tech-stack), and [Build & Tooling](#build--tooling).
+
+You can also explore some of my systems-oriented projects and implementations in the [Projects](#projects) section, including custom filesystem tooling and low-level infrastructure-related software.
 
 For additional details:
 
-* [Employment](#employment)
-* [Environment](#environment)
-* [Tech Stack](#tech-stack)
-* [Build & Tooling](#build--tooling)
-* [Projects](#projects)
 * [Problem Solving](#problem-solving)
 * [Engineering Profile](#engineering-profile)
 * [Stats](#stats)
@@ -32,6 +32,9 @@ C/C++ Mentor — *Systems Programming in C/C++*
 * mentoring students in low-level programming
 * debugging and memory-related guidance
 * systems-level development practices
+* **reviewing every laboratory work** before pull requests are approved
+* conducting live code reviews focused on correctness, memory safety, and implementation quality
+* validating proper memory management and identifying potential leaks and unsafe behavior
 
 ---
 
@@ -50,6 +53,7 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
