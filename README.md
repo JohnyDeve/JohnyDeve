@@ -118,17 +118,17 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ## Problem Solving
 
-* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
+* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) & [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/johny_dev/)
 
 ---
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=JohnyDeve)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDeve\&layout=compact)
 
-![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES)
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev)
 
 ---
 
