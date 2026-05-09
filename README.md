@@ -53,7 +53,7 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
-|
+Main | Second
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
