@@ -109,6 +109,24 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ---
 
+### srgbviz (Sequence RGB Vizualizer)
+
+Data visualization library built around a modular rendering pipeline for numerical and sequence-based data.
+
+* pipeline-oriented architecture:
+  `DataSource -> ColorMap -> IO`
+* static image and animation rendering
+* low-level frame writing and rendering control
+* console and screen-based rendering backends
+* custom cache implementation for rendering optimization
+* FFmpeg-based media output pipeline
+
+**Tech:** C++ / FFmpeg
+
+> Focused on deterministic rendering pipelines, modular data processing, and performance-oriented visualization infrastructure.
+
+---
+
 ### RBTree Visualizer
 
 Low-level visualization library for red-black trees built on top of Graphviz.
@@ -135,7 +153,7 @@ Multidimensional array container designed around contiguous storage semantics an
 * extensive use of concepts, requires-constraints, and SFINAE
 * emphasis on type safety, predictable memory layout, and generic programming techniques
 
-**Tech:** Modern C++
+**Tech:** C++
 
 >> Focused on standards-compliant container design, iterator abstractions, and compile-time constrained APIs.
 
