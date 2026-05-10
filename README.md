@@ -51,12 +51,12 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ### Languages
 
-**Main**
+Main:
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
 
-**Second**
+Second:
 
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
@@ -122,6 +122,22 @@ Low-level visualization library for red-black trees built on top of Graphviz.
 **Tech:** C / Graphviz
 
 >> Focused on deterministic behavior, memory safety, and modular low-level design.
+
+---
+
+### NDArray
+
+Multidimensional array container designed around contiguous storage semantics and STL-style container guarantees.
+
+* implementation focused on contiguous container standard compliance
+* custom iterator and view abstractions (`NDArrayView`)
+* const-correct container implementation (`ConstNDArray`)
+* extensive use of concepts, requires-constraints, and SFINAE
+* emphasis on type safety, predictable memory layout, and generic programming techniques
+
+**Tech:** Modern C++
+
+>> Focused on standards-compliant container design, iterator abstractions, and compile-time constrained APIs.
 
 > Additional projects are available in repositories.
 
