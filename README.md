@@ -157,7 +157,7 @@ Multidimensional array container designed around contiguous storage semantics an
 
 >> Focused on standards-compliant container design, iterator abstractions, and compile-time constrained APIs.
 
-> Additional projects are available in repositories.
+> Additional projects are available in [repositories](https://github.com/JohnyDeve?tab=repositories).
 
 ---
 
