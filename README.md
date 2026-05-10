@@ -96,6 +96,8 @@ Second:
 
 ## Projects
 
+*These and other projects are available in my [repositories](https://github.com/JohnyDeve?tab=repositories)*
+
 ### KUManager
 
 Dual-panel file manager with direct FAT16/FAT32 interaction.
@@ -139,7 +141,7 @@ Low-level visualization library for red-black trees built on top of Graphviz.
 
 **Tech:** C / Graphviz
 
->> Focused on deterministic behavior, memory safety, and modular low-level design.
+> Focused on deterministic behavior, memory safety, and modular low-level design.
 
 ---
 
@@ -155,9 +157,7 @@ Multidimensional array container designed around contiguous storage semantics an
 
 **Tech:** C++
 
->> Focused on standards-compliant container design, iterator abstractions, and compile-time constrained APIs.
-
-> Additional projects are available in [repositories](https://github.com/JohnyDeve?tab=repositories).
+> Focused on standards-compliant container design, iterator abstractions, and compile-time constrained APIs.
 
 ---
 
