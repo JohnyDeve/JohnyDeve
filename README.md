@@ -105,8 +105,6 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 **Tech:** C++ / Qt
 
----
-
 ### RBTree Visualizer
 
 Low-level visualization library for red-black trees built on top of Graphviz.
