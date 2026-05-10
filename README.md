@@ -125,11 +125,11 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JohnyDeve)
+![GitHub Streak](https://streak-stats.demolab.com?user=JohnyDeve&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDeve\&layout=compact)
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev&theme=dark)
 
-![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnyDeve&theme=react-dark)
 
 ---
 
