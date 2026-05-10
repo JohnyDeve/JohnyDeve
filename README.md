@@ -51,9 +51,11 @@ C/C++ Mentor — *Systems Programming in C/C++*
 
 ### Languages
 
+**Main**
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
-Main | Second
+
+**Second**
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
@@ -118,7 +120,7 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ## Problem Solving
 
-* Active on ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev) &
+* Active on [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=johny_dev)](https://codeforces.com/profile/johny_dev) &
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square\&logo=leetcode)](https://leetcode.com/johny_dev/)
 
 ---
@@ -127,7 +129,7 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JohnyDeve&theme=dark)
 
-![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev&theme=dark)
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev&theme=dark)](https://codeforces.com/profile/johny_dev)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnyDeve&theme=react-dark)
 
