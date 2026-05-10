@@ -105,6 +105,22 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 **Tech:** C++ / Qt
 
+---
+
+### RBTree Visualizer
+
+Low-level visualization library for red-black trees built on top of Graphviz.
+
+* fully written in C with explicit manual memory management
+* static and shared library builds
+* strict error handling and validation pipeline
+* encapsulated public API and separated internal implementation
+* Graphviz-based parsing, tree processing, and rendering
+
+**Tech:** C / Graphviz
+
+>> Focused on deterministic behavior, memory safety, and modular low-level design.
+
 > Additional projects are available in repositories.
 
 ---
