@@ -52,10 +52,12 @@ C/C++ Mentor — *Systems Programming in C/C++*
 ### Languages
 
 **Main**
+
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
 
 **Second**
+
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
@@ -104,6 +106,8 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 * modular architecture and documented codebase
 
 **Tech:** C++ / Qt
+
+---
 
 ### RBTree Visualizer
 
