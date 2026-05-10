@@ -181,8 +181,6 @@ Multidimensional array container designed around contiguous storage semantics an
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JohnyDeve&theme=dark)
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=johny_dev&theme=dark)](https://codeforces.com/profile/johny_dev)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnyDeve&theme=react-dark)
 
 ---
