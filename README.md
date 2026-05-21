@@ -129,7 +129,7 @@ Data visualization library built around a modular rendering pipeline for numeric
 
 ---
 
-### RBTree Visualizer
+### [RBTree Visualizer](https://github.com/JohnyDeve/red-black-tree-lib)
 
 Low-level visualization library for red-black trees built on top of Graphviz.
 
