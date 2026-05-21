@@ -145,7 +145,7 @@ Low-level visualization library for red-black trees built on top of Graphviz.
 
 ---
 
-### NDArray
+### [NDArray](https://github.com/JohnyDeve/ndarray-container-cpp)
 
 Multidimensional array container designed around contiguous storage semantics and STL-style container guarantees.
 
