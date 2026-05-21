@@ -111,7 +111,7 @@ Dual-panel file manager with direct FAT16/FAT32 interaction.
 
 ---
 
-### srgbviz (Sequence RGB Vizualizer)
+### [srgbviz (Sequence RGB Vizualizer)](https://github.com/JohnyDeve/sequence-rgb-vizualizer)
 
 Data visualization library built around a modular rendering pipeline for numerical and sequence-based data.
 
